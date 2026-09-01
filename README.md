@@ -1,3 +1,7 @@
+> **⚠️ Proprietary — All Rights Reserved.** © 2026 Sandeep Grover. This repository is licensed to Sandeep Grover and may **not** be used, run, copied, modified, distributed, or used to train models without prior written permission. Public visibility does not grant a license. See [LICENSE](LICENSE).
+
+---
+
 # Bariatric Surgery Outcomes Analysis
 
 Longitudinal analysis pipeline for bariatric surgery cohorts: weight/body fat trajectory modelling, loss-to-follow-up prediction, and clinic engagement strategy.
